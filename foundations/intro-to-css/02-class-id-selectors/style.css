@@ -1,0 +1,22 @@
+.oddnumber {
+    color: black;
+    background-color: #ff5050;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+
+}
+
+.special{
+    font-size: 24px;
+}
+
+#second{
+    color: #1a1aff;
+    font-size: 36px;
+}
+
+#forth{
+    background-color: #33ff33;
+    font-weight: bold;
+    font-size: 24px;
+}
