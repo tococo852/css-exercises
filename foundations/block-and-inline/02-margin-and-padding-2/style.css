@@ -7,21 +7,44 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  /* box-sizing: border-box; */
+  padding: 8px;
 }
 
 .title {
   background: #e3f4ff;
+  /* box-sizing: border-box; */
+  padding: 8px;
+  font-size: 16px
 }
 
 .content {
   background: #e3f4ff;
+  /* box-sizing: border-box; */
+  padding: 8px;
+  margin-bottom: 8px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+
 }
 
 .button-container {
   background: #e3f4ff;
+  /* box-sizing: border-box; */
+  padding: 8px;
+  text-align: center;
+
 }
 
 button {
   background: white;
+  /* box-sizing: border-box; */
   border: 1px solid #eee;
+  display: block;
+  padding: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: auto;
+
+
 }
